@@ -1,3 +1,5 @@
+Download the zip file
+
 Extract Car wash Pos
 
 Go to debug folder
